@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PBPCRUD</string>
+    <string name="kode_ruangan">Kode Ruangan</string>
+    <string name="kapasitas">kapasitas</string>
+    <string name="tambah">Tambah</string>
+    <string name="simpan">Simpan</string>
+</resources>
